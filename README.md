@@ -1,0 +1,2 @@
+# Traffic-Flow-Analysis-and-Prediction-Using-Bicycle-Data-from-Strava-App-Enhanced-by-Machine-Learning
+To quantify and predict the impact of traffic lights on bicycle traffic flow, using machine learning to enhance insights. This study will adapt and expand upon the methodology of the paper "Impact Analysis of Accidents..." by Golze et al., specifically applying predictive ML models to bicycle movement data collected through Strava.
